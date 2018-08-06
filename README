@@ -1,0 +1,16 @@
+calc - Infinitely simple calculator.
+
+Supports basic infix notation, but no parens (yet)
+Uses PEMDAS.
+
+INFO - TOKENS MUST BE SEPARATED BY SPACES
+
+Should work on any system with GCC, a UNIX environment,
+and GNU make.
+
+Type "make" to build, "./calc -h" for documentation,
+and "make clean" to remove object files.
+
+
+This project is licensed under GPL-3.0 or any later
+version.
