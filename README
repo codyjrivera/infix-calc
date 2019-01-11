@@ -1,6 +1,6 @@
 calc - Simple Calculator and Infix to Polish Notation converter.
 
-Supports basic infix notation
+Implements Shunting-Yard Algorithm
 
 Should work on any system with GCC, a UNIX environment,
 and GNU make.
