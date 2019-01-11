@@ -1,9 +1,6 @@
-calc - Infinitely simple calculator.
+calc - Simple Calculator and Infix to Polish Notation converter.
 
-Supports basic infix notation, but no parens (yet)
-Uses PEMDAS.
-
-INFO - TOKENS MUST BE SEPARATED BY SPACES
+Supports basic infix notation
 
 Should work on any system with GCC, a UNIX environment,
 and GNU make.
